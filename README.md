@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @novalostj
 - Im a unity programmer <3
-- PORTFOLIO [https://sites.google.com/view/novalostj/home]
+- [PORTFOLIO](https://novalostj.github.io/Portfolio/)
